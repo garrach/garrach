@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-  <img src="https://opengameart.org/sites/default/files/snake%20idle.gif" alt="Snake animation" />
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*CQizUgakhTrjihcKJ2S3wA.gif" alt="Snake animation" />
 </div>
 
 ---
